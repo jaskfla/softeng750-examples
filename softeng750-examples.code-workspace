@@ -1,0 +1,39 @@
+{
+	"folders": [
+		{ "name": "root", "path": "." },
+		{ "path": "example-00-javascript-examples" },
+		{ "path": "example-01-my-first-react-app" },
+		{ "path": "example-02-my-first-react-app-jsx" },
+		{ "path": "example-03-vite-default" },
+		{ "path": "example-03b-vite-blank" },
+		{ "path": "example-04-components-logic-loops" },
+		{ "path": "example-05-css-imports" },
+		{ "path": "example-06-css-modules" },
+		{ "path": "example-07-usestate" },
+		{ "path": "example-08-useeffect" },
+		{ "path": "example-09-useref" },
+		{ "path": "example-10-routing-01" },
+		{ "path": "example-11-routing-02" },
+		{ "path": "example-12-context-01" },
+		{ "path": "example-13-context-02" },
+		{ "path": "example-14-localstorage-01" },
+		{ "path": "example-15-localstorage-02" },
+		{ "path": "example-16-mui" },
+		{ "path": "example-17-encapsulating-state" },
+		{ "path": "example-18-express" },
+		{ "path": "example-19-routes-fetch-axios" },
+		{ "path": "example-20-react-express" },
+		{ "path": "example-21-mongoose" },
+		{ "path": "example-22-fullstack" },
+		{ "path": "example-23-jest" },
+		{ "path": "example-24-testing-backend" },
+		{ "path": "example-25-testing-frontend" }
+	],
+	"settings": {
+		"files.exclude": {
+			"**/dist/": true,
+			"**/node_modules/": true,
+			"example-*/": true
+		}
+	}
+}

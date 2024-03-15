@@ -1,0 +1,32 @@
+{
+  "name": "soften750-examples",
+  "private": true,
+  "workspaces": [
+    "example-02-my-first-react-app-jsx",
+    "example-03-vite-default",
+    "example-03b-vite-blank",
+    "example-04-components-logic-loops",
+    "example-05-css-imports",
+    "example-06-css-modules",
+    "example-07-usestate",
+    "example-08-useeffect",
+    "example-09-useref",
+    "example-10-routing-01",
+    "example-11-routing-02",
+    "example-12-context-01",
+    "example-13-context-02",
+    "example-15-localstorage-02",
+    "example-16-mui",
+    "example-17-encapsulating-state",
+    "example-18-express",
+    "example-19-routes-fetch-axios",
+    "example-20-react-express/backend",
+    "example-20-react-express/frontend",
+    "example-21-mongoose",
+    "example-22-fullstack/backend",
+    "example-22-fullstack/frontend",
+    "example-23-jest",
+    "example-24-testing-backend",
+    "example-25-testing-frontend"
+  ]
+}
