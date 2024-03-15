@@ -1,39 +1,123 @@
 {
-	"folders": [
-		{ "name": "root", "path": "." },
-		{ "path": "example-00-javascript-examples" },
-		{ "path": "example-01-my-first-react-app" },
-		{ "path": "example-02-my-first-react-app-jsx" },
-		{ "path": "example-03-vite-default" },
-		{ "path": "example-03b-vite-blank" },
-		{ "path": "example-04-components-logic-loops" },
-		{ "path": "example-05-css-imports" },
-		{ "path": "example-06-css-modules" },
-		{ "path": "example-07-usestate" },
-		{ "path": "example-08-useeffect" },
-		{ "path": "example-09-useref" },
-		{ "path": "example-10-routing-01" },
-		{ "path": "example-11-routing-02" },
-		{ "path": "example-12-context-01" },
-		{ "path": "example-13-context-02" },
-		{ "path": "example-14-localstorage-01" },
-		{ "path": "example-15-localstorage-02" },
-		{ "path": "example-16-mui" },
-		{ "path": "example-17-encapsulating-state" },
-		{ "path": "example-18-express" },
-		{ "path": "example-19-routes-fetch-axios" },
-		{ "path": "example-20-react-express" },
-		{ "path": "example-21-mongoose" },
-		{ "path": "example-22-fullstack" },
-		{ "path": "example-23-jest" },
-		{ "path": "example-24-testing-backend" },
-		{ "path": "example-25-testing-frontend" }
-	],
-	"settings": {
-		"files.exclude": {
-			"**/dist/": true,
-			"**/node_modules/": true,
-			"example-*/": true
-		}
-	}
+  "folders": [
+    {
+      "name": "root",
+      "path": "."
+    },
+    {
+      "name": "0. JavaScript Examples",
+      "path": "example-00-javascript-examples"
+    },
+    {
+      "name": "1. My First React App",
+      "path": "example-01-my-first-react-app"
+    },
+    {
+      "name": "2. My First JSX App",
+      "path": "example-02-my-first-react-app-jsx"
+    },
+    {
+      "name": "3a. Vite + React",
+      "path": "example-03-vite-default"
+    },
+    {
+      "name": "3b. Stripped-Down Starter Project",
+      "path": "example-03b-vite-blank"
+    },
+    {
+      "name": "4. Components, Logic & Loops",
+      "path": "example-04-components-logic-loops"
+    },
+    {
+      "name": "5. CSS Imports",
+      "path": "example-05-css-imports"
+    },
+    {
+      "name": "6. CSS Modules",
+      "path": "example-06-css-modules"
+    },
+    {
+      "name": "7. useState() Hook",
+      "path": "example-07-usestate"
+    },
+    {
+      "name": "8. useEffect() Hook",
+      "path": "example-08-useeffect"
+    },
+    {
+      "name": "9. useRef() Hook",
+      "path": "example-09-useref"
+    },
+    {
+      "name": "10. Routing Examples",
+      "path": "example-10-routing-01"
+    },
+    {
+      "name": "11. More Routing Examples",
+      "path": "example-11-routing-02"
+    },
+    {
+      "name": "12. React Context API",
+      "path": "example-12-context-01"
+    },
+    {
+      "name": "13. More Context",
+      "path": "example-13-context-02"
+    },
+    {
+      "name": "14. Local Storage",
+      "path": "example-14-localstorage-01"
+    },
+    {
+      "name": "15. Local Storage with React",
+      "path": "example-15-localstorage-02"
+    },
+    {
+      "name": "16. MUI",
+      "path": "example-16-mui"
+    },
+    {
+      "name": "17. Encapsulating State",
+      "path": "example-17-encapsulating-state"
+    },
+    {
+      "name": "18. Node.js / Express",
+      "path": "example-18-express"
+    },
+    {
+      "name": "19. Express Routes, fetch() & axios",
+      "path": "example-19-routes-fetch-axios"
+    },
+    {
+      "name": "20. Express with React",
+      "path": "example-20-react-express"
+    },
+    {
+      "name": "21. MongoDB & Mongoose",
+      "path": "example-21-mongoose"
+    },
+    {
+      "name": "22. THe MERN Stack",
+      "path": "example-22-fullstack"
+    },
+    {
+      "name": "23. Testing with Jest",
+      "path": "example-23-jest"
+    },
+    {
+      "name": "24. Testing your Backend",
+      "path": "example-24-testing-backend"
+    },
+    {
+      "name": "25. Testing your Frontend",
+      "path": "example-25-testing-frontend"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/dist/": true,
+      "**/node_modules/": true,
+      "example-*/": true
+    }
+  }
 }
